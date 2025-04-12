@@ -17,4 +17,4 @@
 [openapi-cpp]
   url=git@github.com:maxodo98/openapi-cpp_test.git
   branch=master
-  commit=3c225c0547c6bd5ff45cfbdd76d916d1de9fd055
+  commit=c1940b68d219e46fd8b3998212625a60cbb983a4
